@@ -1,0 +1,31 @@
+.user {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10rem 10rem;
+}
+
+.user__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border: 1px solid grey;
+}
+
+.innerList > li {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.user__card * span {
+    font-weight: bold;
+}
+
+.user__card * li {
+    font-weight: bold;
+}
