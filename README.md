@@ -70,5 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# integrify-pre-assignment" 
 # integrify-pre-assignment
-# integrify-pre-assignment
-# integrify-pre-assignment
+In this React application, a JSON file is fetched through an API which contains ten users' information. The users' information is shown in the form of user cards in the homepage of the application. A "MORE DETAILS" button leads to a second page which shows more information about that specific user. Different React components are used for 1) the homepage for showing the user cards, 2) the second page for showing detailed information about each user, 3) the user cards and 4) the MORE DETAILS button.   
